@@ -1,0 +1,51 @@
+(5)worked on Dead Ringer, meetings with Alex designing Dead Ringer
+(2)worked on getting the cc plant on prod with raymond
+(1)got new models for the security demo put in
+
+1401-programming
+
+(4)worked on Dead Ringer getting the level layouts done and implementing a new saving feature. Adding SFX and making it both computer and mobile ready
+(3)fixing combine cycle issues with the loading taking forever on the site
+(1)made changes to the security demo from chris
+
+(4)worked on DeadRinger putting in a high score table for the game and each level, putting in the wildcard features and other features from the design doc
+(2)made changes to security demo from chris, published out both windows/mac builds
+(2)spent time building out 2 of the cc builds for trax with no videos in them 
+
+(5)Building out combine cycle without video for Trauxx
+(1)Making new build of the security demo
+(2)Dead Ringer high score implementing
+
+(8)Dead Ringer high php
+
+make local save list on dead ringer
+
+
+What makes a game fun...(Phone)
+Easy to play
+Quick games
+Highscore table
+Feeling smart for doing simple things
+Particles!
+Strategy
+Endless content
+Multiple way to win
+Progression
+Automatically does things
+
+
+Something that a player can play with 1 hand, while only taking about 10-15 seconds to play.
+Has enough content to make a player think everything is new, when your just recycling stuff.
+Makes the player think about what to do, but the thought is simple.
+Has a progression system in place to make the people who play it longer, want to keep playing.
+Highscore table to make players compete for who is the best player.
+Different people can play the game different ways and still complete it. 
+
+
+
+
+return if unlocked/locked
+return how much they have completed
+
+kill 5 in a round
+kill 10 overall
